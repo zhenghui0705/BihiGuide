@@ -1,0 +1,21 @@
+#app{width:100%;background:-webkit-linear-gradient(15deg ,#071b3f,#5c359e);background:-o-linear-gradient(15deg ,#071b3f,#5c359e);background:-moz-linear-gradient(15deg ,#071b3f,#5c359e);background:linear-gradient(15deg ,#071b3f,#5c359e);padding-bottom:2.28rem;font-family:Helvetica;}
+.logo{width:2.666667rem;height:.466667rem;position:absolute;left:.4rem;top:.4rem;}
+
+a:hover{text-decoration:none !important;}
+.logo_img{width: 2.666667rem;height: 0.466667rem;}
+.section{width:100%;overflow:hidden}
+.app_icon{width:1.88rem;height:1.88rem;margin:1.933333rem auto 0}
+.app_img{width: 1.88rem;height: 1.88rem;}
+.bihi{color:#eee;font-size:.533333rem;text-align:center;margin-top:.693333rem}
+.text_content{width:8.026667rem;height:1.08rem;margin:.84rem auto 0;text-align:center}
+.bihi_1{color:#fff;font-size:.4rem}
+.bihi_2{color:#fff;font-size:.4rem}
+.btn_content{margin:1.24rem auto 0;width:4.666667rem;display:flex;flex-direction:column;text-align:center}
+.btn_ios{width:4.666667rem;height:1.12rem;border-radius:.213333rem;border:1px solid #fff;cursor: pointer;}
+.title{font-size:.426667rem;color:#fff;line-height:1.12rem;width: 100%; display: block;}
+.ios_time{font-size:.266667rem;margin-top:.32rem;color:#fff}
+.btn_android{width:4.666667rem;height:1.12rem;border-radius:.213333rem;border:1px solid #fff;margin-top:.8rem;cursor: pointer;}
+.footer{width:6.453333rem;height:6.866667rem;margin:1.413333rem auto 0;}
+.bihi_icon{width: 6.453333rem;height: 6.866667rem;}
+.btn_ios:hover{background: #ffae00;border: 1px solid #ffae00;}
+.btn_android:hover{background: #ffae00;border: 1px solid #ffae00;}
