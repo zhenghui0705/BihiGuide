@@ -1,8 +1,7 @@
 #app{width:100%;background:-webkit-linear-gradient(15deg ,#071b3f,#5c359e);background:-o-linear-gradient(15deg ,#071b3f,#5c359e);background:-moz-linear-gradient(15deg ,#071b3f,#5c359e);background:linear-gradient(15deg ,#071b3f,#5c359e);padding-bottom:2.28rem;font-family:Helvetica;}
 .logo{width:2.666667rem;height:.466667rem;position:absolute;left:.4rem;top:.4rem;}
-
 a:hover{text-decoration:none !important;}
-.logo_img{width: 2.666667rem;height: 0.466667rem;}
+.logo_img{width: 3.466667rem;height: 0.613333rem}
 .section{width:100%;overflow:hidden}
 .app_icon{width:1.88rem;height:1.88rem;margin:1.933333rem auto 0}
 .app_img{width: 1.88rem;height: 1.88rem;}
