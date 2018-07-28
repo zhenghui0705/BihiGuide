@@ -33,7 +33,7 @@ a:hover{text-decoration:none !important;}
 .pic_content{width: 6.493333rem; margin: 0 auto;}
 .pic_img1{width: 6.493333rem; height: 3.546667rem;margin-top: 1.36rem;}
 .about{width: 100%;padding-bottom: .12rem;background: -webkit-linear-gradient(15deg ,#071b3f,#5c359e); background: -o-linear-gradient(15deg ,#071b3f,#5c359e);background: -moz-linear-gradient(15deg ,#071b3f,#5c359e);background: linear-gradient(15deg ,#071b3f,#5c359e);overflow: hidden;}
-.about_info{margin-top: 1.5867rem;margin-left: 1.6rem;margin-right: .9867rem;display: flex;}
+.about_info{margin-top: 1.5867rem;margin-left: 1.6rem;margin-right: .9867rem;display: flex; justify-content: center;}
 .focus{margin-right: 1.9067rem;height: 100%;}
 .focus_us{font-size: .4267rem;color: #fff;text-align: center;}
 .wexin_code{font-size: .32rem;color: #fff;margin-top: .2533rem;text-align: center;}
